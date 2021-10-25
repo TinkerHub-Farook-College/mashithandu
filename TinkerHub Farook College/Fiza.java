@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class hello_world{
+class Fiza{
     public static void main(String args[])
     {
         String name;
